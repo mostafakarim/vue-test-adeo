@@ -1,6 +1,6 @@
 ## Deploy Your Own
 
-#Installation
+# Installation
 
 - Clone the repo - `git clone git@github.com:mostafakarim/vue-test-adeo.git`.
 - Install project dependencies — `npm install`.
